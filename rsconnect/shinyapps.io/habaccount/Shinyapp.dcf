@@ -1,0 +1,13 @@
+name: Shinyapp
+title: Shinyapp
+username:
+account: habaccount
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6701210
+bundleId: 6138168
+url: https://habaccount.shinyapps.io/Shinyapp/
+when: 1658924895.26165
+lastSyncTime: 1658924895.26165
+asMultiple: FALSE
+asStatic: FALSE
