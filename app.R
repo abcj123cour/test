@@ -27,7 +27,6 @@ dat<-drop_na(dat)
 
 
 
-
 ui <- fluidPage(
   
   sidebarLayout(
